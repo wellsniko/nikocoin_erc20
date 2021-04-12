@@ -1,0 +1,6 @@
+src/bin
+/src/bin/
+/src/bin
+src/bin/*
+/src/bin/*
+.vscode
